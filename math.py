@@ -1,11 +1,12 @@
 import math
 # 
-# width = int(input('Enter the Width'))
-# length = int(input('Enter the Length'))
+width = int(input('Enter the Width'))
 
-#  area = width * length
+length = int(input('Enter the Length'))
 
-#  print(f'the square footage of a house is {area} ')
+area = width * length
+
+print(f'the square footage of a house is {area} ')
 
 
 # Circumference of circle
